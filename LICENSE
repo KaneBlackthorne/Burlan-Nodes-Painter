@@ -1,42 +1,42 @@
-# BurlanT Custom License
+# BurlanT License
 
-Copyright (c) 2024 Cauthon Corporation
+Copyright (c) 2024 Cauthon Corporation - All Rights Reserved
 
-## Terms and Conditions
+## Usage Rights
 
-1. **Definitions**
-   - "Plugin" refers to BurlanT and all its associated code, assets, and documentation
-   - "You" refers to the user or entity using the Plugin
+This software is provided under a limited use license with the following terms:
 
-2. **Permissions**
-   - You may use this Plugin on Minecraft servers
-   - You may modify the Plugin for personal use only
-   - You may distribute the compiled Plugin as part of a Minecraft server
+1. **Allowed Usage**
+   - Installation on Minecraft servers (private or public)
+   - Usage as a server plugin
+   - Creation of content (videos, streams, tutorials) featuring the plugin
+   - Distribution of the compiled plugin file through official channels only
 
-3. **Restrictions**
-   - You may NOT use any part of the source code in other projects
-   - You may NOT redistribute the source code
-   - You may NOT sell or monetize the Plugin or any of its components
-   - You may NOT create derivative works based on the Plugin
-   - You may NOT decompile, reverse engineer, or attempt to extract the source code
+2. **Prohibited Actions**
+   - Modification of the source code
+   - Redistribution of the source code
+   - Creation of derivative works
+   - Selling or monetizing the plugin
+   - Claiming ownership or authorship of the plugin
+   - Reverse engineering or decompiling the plugin
+   - Including any part of this code in other projects
 
-4. **Minecraft Server Usage**
-   - The Plugin may be used on both private and public Minecraft servers
-   - Server owners may use the Plugin as part of their server offerings
-   - Server owners may NOT claim ownership of or rebrand the Plugin
+3. **Server Usage**
+   - Server owners may use this plugin on their servers
+   - Server owners may include this plugin in their server packages
+   - Server owners must maintain all original credits and branding
 
-5. **Warranty and Liability**
-   - The Plugin is provided "AS IS" without warranty of any kind
-   - The authors are not liable for any damages arising from the use of the Plugin
+4. **Content Creation**
+   - Content creators may create content featuring the plugin
+   - Proper attribution must be provided
+   - Links should direct to official distribution channels
 
-6. **Termination**
-   - This license automatically terminates if you violate any of these terms
-   - Upon termination, you must cease all use of the Plugin
+## Disclaimer
 
-7. **Miscellaneous**
-   - This license may be updated at any time
-   - All rights not explicitly granted are reserved
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
 
-For questions about this license, contact [your contact information].
+## Enforcement
 
-ALL RIGHTS RESERVED - Cauthon Corporation
+We reserve the right to enforce this license through all legal means available.
+
+For questions about licensing, contact: kaneblackthorne@gmail.com
